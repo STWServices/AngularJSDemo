@@ -1,0 +1,14 @@
+F:\Projects\AngularJS-WebAPI-BookStore\DataAccess\bin\Release\DataAccess.dll
+F:\Projects\AngularJS-WebAPI-BookStore\DataAccess\bin\Release\DataAccess.pdb
+F:\Projects\AngularJS-WebAPI-BookStore\DataAccess\bin\Release\Shared.dll
+F:\Projects\AngularJS-WebAPI-BookStore\DataAccess\bin\Release\Shared.pdb
+F:\Projects\AngularJS-WebAPI-BookStore\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+F:\Projects\AngularJS-WebAPI-BookStore\DataAccess\obj\Release\DataAccess.dll
+F:\Projects\AngularJS-WebAPI-BookStore\DataAccess\obj\Release\DataAccess.pdb
+D:\Projects\MVC4-AngularJS-SPA\WebApiAngularJs\DataAccess\bin\Release\DataAccess.dll
+D:\Projects\MVC4-AngularJS-SPA\WebApiAngularJs\DataAccess\bin\Release\DataAccess.pdb
+D:\Projects\MVC4-AngularJS-SPA\WebApiAngularJs\DataAccess\bin\Release\Shared.dll
+D:\Projects\MVC4-AngularJS-SPA\WebApiAngularJs\DataAccess\bin\Release\Shared.pdb
+D:\Projects\MVC4-AngularJS-SPA\WebApiAngularJs\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+D:\Projects\MVC4-AngularJS-SPA\WebApiAngularJs\DataAccess\obj\Release\DataAccess.dll
+D:\Projects\MVC4-AngularJS-SPA\WebApiAngularJs\DataAccess\obj\Release\DataAccess.pdb

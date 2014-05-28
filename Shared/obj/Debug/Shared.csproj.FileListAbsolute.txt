@@ -1,0 +1,14 @@
+C:\Users\admin\documents\visual studio 2012\Projects\BookStore\Shared\bin\Debug\Shared.dll
+C:\Users\admin\documents\visual studio 2012\Projects\BookStore\Shared\bin\Debug\Shared.pdb
+C:\Users\admin\documents\visual studio 2012\Projects\BookStore\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+C:\Users\admin\documents\visual studio 2012\Projects\BookStore\Shared\obj\Debug\Shared.dll
+C:\Users\admin\documents\visual studio 2012\Projects\BookStore\Shared\obj\Debug\Shared.pdb
+D:\Projects\nop-commerce\AngularJS-WebAPI-BookStore\Shared\bin\Debug\Shared.dll
+D:\Projects\nop-commerce\AngularJS-WebAPI-BookStore\Shared\bin\Debug\Shared.pdb
+D:\Projects\nop-commerce\AngularJS-WebAPI-BookStore\Shared\obj\Debug\Shared.dll
+D:\Projects\nop-commerce\AngularJS-WebAPI-BookStore\Shared\obj\Debug\Shared.pdb
+D:\Projects\nop-commerce\AngularJS-WebAPI-BookStore\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+D:\Projects\MVC4-AngularJS-SPA\WebApiAngularJs\Shared\bin\Debug\Shared.dll
+D:\Projects\MVC4-AngularJS-SPA\WebApiAngularJs\Shared\bin\Debug\Shared.pdb
+D:\Projects\MVC4-AngularJS-SPA\WebApiAngularJs\Shared\obj\Debug\Shared.dll
+D:\Projects\MVC4-AngularJS-SPA\WebApiAngularJs\Shared\obj\Debug\Shared.pdb

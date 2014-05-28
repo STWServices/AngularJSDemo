@@ -1,0 +1,59 @@
+﻿<div id="nav">
+    <div class="container">
+        <div id="navigation" class="divButtonPane ">
+            <ul class="rmm-main-list sf-js-enabled sf-arrows" style="display: none;">
+                <li><a href="/" class="blueButton">Back To Productlist</a></li>
+
+            </ul>
+        </div>
+    </div>
+</div>
+<div id="divProductBody" class="divProductBody">
+    <div style="margin-top: 35px;">
+        <table>
+            <tr>
+                <td style="padding: 5px;">
+                    <img src="ImgHandler.ashx?ImageID={{product.Image}}" />
+                </td>
+                <td>
+                    <span style="font: bold; font-family: Arial; font-weight: 800; font-size: xx-large">{{product.Name}}</span><br />
+                    <img src="Resources/Images/{{GetRatingImage(product.Rating)}}" height="17px" width="90px" />
+                    <hr />
+                    <span class="boldFont800">Author: </span>
+                    <span class="boldFontGray800">{{product.AuthorName}}</span><br />
+                    <span class="boldFont800">Publisher: </span>
+                    <span class="boldFontGray800">{{product.PublisherName}}</span><br />
+                    <hr />
+                    <span style="font: bold; font-family: Arial; font-weight: 800;" class="discount-{{HasDiscount(product.Discount)}}">Rs. {{product.Price}}</span>
+                    <span class="boldFont800">{{GetActualPrice(product.Price, product.Discount)}}</span><br />
+                    <span class="boldSmallFontGray300">Inclusive of all taxes.
+                    </span>
+                    <br />
+                    <br />
+                    <span class="boldSmallFontGray300">Free home delivery if total order amount is Rs. 1000 or above. Add Rs. 100 otherwise.
+                    </span>
+                    <br />
+                    <table>
+                        <tr>
+                            <td>
+                                <a href="#" class="buyNowButton">BUY NOW</a>
+                            </td>
+                            <td>
+                                <span style="font: bold; font-family: Arial; font-weight: 800; color: green; font-size: large">In Stock
+                                </span>
+                                <br />
+                                <span class="boldSmallFontGray300">Delivered in 2-3 business days.
+                                </span>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <hr />
+        <span style="font: bold; font-family: Arial; font-weight: 800;">Summary Of The Product:</span><br />
+        <div ng-bind-html-unsafe="product.Details" class="boldSmallFontGray300"></div>
+        <br />
+        <hr />
+    </div>
+</div>

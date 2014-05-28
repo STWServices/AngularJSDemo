@@ -1,0 +1,115 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="ProductStore.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8">
+    <title>STW - Angular JS Demo</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.min.js"></script>
+    <script type="text/javascript" src="Scripts/App.js"></script>
+    <script type="text/javascript" src="Scripts/Controllers.js"></script>
+    <script type="text/javascript" src="Scripts/tooltip.js"></script>
+    <link rel="stylesheet" href="Style/StyleSheet.css" />
+    <link href="css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/jquery.css" type="text/css" media="screen">
+    <script src="js/modernizr.custom.52140.js"></script>
+   
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body ng-app="ProductStore">
+    <form id="form1" runat="server">
+               
+        <div id="wrapper">
+            <!--wrapper-->
+            <!-- Header -->
+            <header id="header">
+                <div class="top">
+                    <div class="container">
+                        <div class="row">
+                            <ul class="account">
+                                <li><a href="#">My Account</a></li>
+                                <li><a href="#">Checkout</a></li>
+                                <li><a href="#">Cart</a></li>
+                            </ul>
+                            <ul class="login">
+                                <li><a href="#">Login </a></li>
+                                <li><a href="#">Cart : 0</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="logo-row">
+                        <div id="logo"><a href="/">
+                            <img src="images/logo.png" alt=""></a></div>
+                        <!-- #logo -->
+                        <a href="#" class="wishlist">wishlist</a>
+                    </div>
+                </div>
+            </header>
+            <!-- #header -->
+            
+
+            <section id="banner">
+                <div class="container">
+                    <ul class="bxslider">
+                        <li><a href="#">
+                            <img src="images/banner.png" alt="">
+                            <h2>Goggle & T-Shirts</h2>
+                        </a></li>
+                        <li><a href="#">
+                            <img src="images/banner.png" alt="">
+                            <h2>Goggle & T-Shirts</h2>
+                        </a></li>
+                        <li><a href="#">
+                            <img src="images/banner.png" alt="">
+                            <h2>Goggle & T-Shirts</h2>
+                        </a></li>
+                    </ul>
+                </div>
+            </section>
+        </div>
+        <div class="container"><!-- container -->
+		 <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+    </asp:ContentPlaceHolder>
+       </div>
+        <div style="clear:both;"></div>
+         <footer id="footer">
+        <div class="container"><!-- container -->		
+		 <div class="client-say">
+		  <ul>
+		    <li><a href="#"><img src="images/icon-1.png" alt="icon"></a></li>
+			<li><a href="#"><img src="images/icon-2.png" alt="icon"></a></li>
+			<li><a href="#"><img src="images/icon-3.png" alt="icon"></a></li>
+			<li><a href="#"><img src="images/icon-4.png" alt="icon"></a></li>
+			<li><a href="#"><img src="images/icon-5.png" alt="icon"></a></li>
+		  </ul>
+		  <h2>WHAT OUR CLIENTS HAVE TO SAY</h2>
+		 
+		 </div>
+		 <div class="some-text">
+		  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci 
+		  tation ullamcorper suscipit lobortis nisl ut aliquip.</p>
+		 </div>
+		 <div class="copy">
+		  <span>@ 2013 UP Properties. All rights reserved.   </span>
+		  <span class="designe-by">  Designed by STW Services LLP</span>
+		 </div>
+       </div></footer> 
+        <script src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/responsivemobilemenu.js"></script>	
+	<script src="js/superfish.js"></script>
+	<script src="js/jquery.bxslider.js"></script>
+	<script src="js/classie.js"></script>
+	<script src="js/uisearch.js"></script>
+	<script src="js/main.js"></script>	
+    </form>
+</body>
+</html>

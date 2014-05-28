@@ -1,0 +1,27 @@
+C:\Users\admin\documents\visual studio 2012\Projects\BookStore\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+C:\Users\admin\documents\visual studio 2012\Projects\BookStore\Controller\bin\Debug\Controller.dll
+C:\Users\admin\documents\visual studio 2012\Projects\BookStore\Controller\bin\Debug\Controller.pdb
+C:\Users\admin\documents\visual studio 2012\Projects\BookStore\Controller\bin\Debug\DataAccess.dll
+C:\Users\admin\documents\visual studio 2012\Projects\BookStore\Controller\bin\Debug\Shared.dll
+C:\Users\admin\documents\visual studio 2012\Projects\BookStore\Controller\bin\Debug\DataAccess.pdb
+C:\Users\admin\documents\visual studio 2012\Projects\BookStore\Controller\bin\Debug\Shared.pdb
+C:\Users\admin\documents\visual studio 2012\Projects\BookStore\Controller\obj\Debug\Controller.dll
+C:\Users\admin\documents\visual studio 2012\Projects\BookStore\Controller\obj\Debug\Controller.pdb
+D:\Projects\nop-commerce\AngularJS-WebAPI-BookStore\Controller\bin\Debug\Controller.dll
+D:\Projects\nop-commerce\AngularJS-WebAPI-BookStore\Controller\bin\Debug\Controller.pdb
+D:\Projects\nop-commerce\AngularJS-WebAPI-BookStore\Controller\bin\Debug\DataAccess.dll
+D:\Projects\nop-commerce\AngularJS-WebAPI-BookStore\Controller\bin\Debug\Shared.dll
+D:\Projects\nop-commerce\AngularJS-WebAPI-BookStore\Controller\bin\Debug\DataAccess.pdb
+D:\Projects\nop-commerce\AngularJS-WebAPI-BookStore\Controller\bin\Debug\Shared.pdb
+D:\Projects\nop-commerce\AngularJS-WebAPI-BookStore\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+D:\Projects\nop-commerce\AngularJS-WebAPI-BookStore\Controller\obj\Debug\Controller.dll
+D:\Projects\nop-commerce\AngularJS-WebAPI-BookStore\Controller\obj\Debug\Controller.pdb
+D:\Projects\MVC4-AngularJS-SPA\WebApiAngularJs\Controller\bin\Debug\Controller.dll
+D:\Projects\MVC4-AngularJS-SPA\WebApiAngularJs\Controller\bin\Debug\Controller.pdb
+D:\Projects\MVC4-AngularJS-SPA\WebApiAngularJs\Controller\bin\Debug\DataAccess.dll
+D:\Projects\MVC4-AngularJS-SPA\WebApiAngularJs\Controller\bin\Debug\Shared.dll
+D:\Projects\MVC4-AngularJS-SPA\WebApiAngularJs\Controller\bin\Debug\DataAccess.pdb
+D:\Projects\MVC4-AngularJS-SPA\WebApiAngularJs\Controller\bin\Debug\Shared.pdb
+D:\Projects\MVC4-AngularJS-SPA\WebApiAngularJs\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+D:\Projects\MVC4-AngularJS-SPA\WebApiAngularJs\Controller\obj\Debug\Controller.dll
+D:\Projects\MVC4-AngularJS-SPA\WebApiAngularJs\Controller\obj\Debug\Controller.pdb
