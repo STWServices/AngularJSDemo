@@ -1,4 +1,4 @@
-AngularJS-WebAPI-BookStore
+AngularJS-WebAPI-ProductStore
 ==========================
 
 This application demonstrates how to use Asp.Net web api RESTful services to send and receive data with angularJS. Apart from that you can see how angularJS is very effective in creating applications where we need to do real-time DOM manipulation.  Also this is a single page application which utilizes angular views to navigate to different pages. 
